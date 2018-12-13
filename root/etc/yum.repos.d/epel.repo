@@ -1,0 +1,7 @@
+# Directly to https://armv7.dev.centos.org/repodir/epel-pass-1/
+[epel]
+name=Epel rebuild for armhfp
+baseurl=https://armv7.dev.centos.org/repodir/epel-pass-1/
+gpgcheck=0
+enablegroups=0
+enabled=1
