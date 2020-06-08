@@ -4,7 +4,7 @@
 Summary:       NethServer YUM epel repo configuration
 Name:          nethserver-arm-epel
 Version:       7
-Release:       1%{?dist}
+Release:       2%{?dist}
 License:       GPL
 ExclusiveArch: armv7hl
 Source:        %{name}-%{version}.tar.gz
