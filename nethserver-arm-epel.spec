@@ -36,5 +36,9 @@ rm -rf %{buildroot}
 
 %changelog
 
+* Mon Jun 08 2020 Mark Verlinde <mark.verlinde@gmail.com> - 7-2
+- Workaround for NethServer/arm-dev#41;
+  Revisit if upstream (CentOs) moves on this isseu
+
 * Thu Dec 13 2018 Mark Verlinde <mark.verlinde@gmail.com> - 7-1
 - Initial build
